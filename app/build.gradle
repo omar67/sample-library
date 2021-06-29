@@ -45,5 +45,6 @@ dependencies {
 
     // My Dependencies
     implementation 'com.github.omar67:sample-library:1.0.0'
+//    implementation project(path: ':mylibrary')
 
 }

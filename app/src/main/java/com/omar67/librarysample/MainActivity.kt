@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         MyLogger.d("test123")
+        MyLogger.d(getString(R.string.tag2))
+
     }
 }
