@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tag">MyLogger</string>
+    <string name="tag2">MyLogger2</string>
+</resources>
